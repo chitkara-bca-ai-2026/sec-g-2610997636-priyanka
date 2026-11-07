@@ -16,7 +16,6 @@ print("--------------------------------------------------")
 print(f"{'Variable':<16} {'Value':<15} {'Python Type'}")
 print("-" * 50)
 
-
 print(f"{'product_name':<16} {str(product_name):<15} {str(type(product_name))}")
 print(f"{'price':<16} {str(price):<15} {str(type(price))}")
 print(f"{'quantity':<16} {str(quantity):<15} {str(type(quantity))}")

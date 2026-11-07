@@ -6,7 +6,7 @@ username = input("\nEnter your username: ")
 password = input("Enter your password: ")
 
 print("\n=================================================")
-print("PASSWORD VALIDATIONclea REPORT")
+print("PASSWORD VALIDATION REPORT")
 print("==================================================")
 
 print("Username:", username)
